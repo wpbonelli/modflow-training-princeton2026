@@ -514,7 +514,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/xmipy-1.5.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/xyzservices-2026.3.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-4.1.0-pyhcf101f3_0.conda
-      - pypi: git+https://github.com/modflow-org/modflow-devtools#ef97c190554c1d8939980927d68e15081adcf397
+      - pypi: git+https://github.com/modflow-org/modflow-devtools#abec244c96a3595f7774b279dea5d10ab64663d7
       - pypi: git+https://github.com/modflow-org/modflowapi?branch=develop#f441475d298e8d2af0d683085b346ed780ff912b
       - pypi: git+https://github.com/modflowpy/flopy#866bb586380d934f18e7e666357e6625cbdf874c
       - pypi: https://files.pythonhosted.org/packages/45/7f/0e961cf3908bc4c1c3e027de2794f867c6c89fb4916fc7dba295a0e80a2d/boltons-25.0.0-py3-none-any.whl
@@ -1009,7 +1009,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/xmipy-1.5.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/xyzservices-2026.3.0-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-4.1.0-pyhcf101f3_0.conda
-      - pypi: git+https://github.com/modflow-org/modflow-devtools#ef97c190554c1d8939980927d68e15081adcf397
+      - pypi: git+https://github.com/modflow-org/modflow-devtools#abec244c96a3595f7774b279dea5d10ab64663d7
       - pypi: git+https://github.com/modflow-org/modflowapi?branch=develop#f441475d298e8d2af0d683085b346ed780ff912b
       - pypi: git+https://github.com/modflowpy/flopy#866bb586380d934f18e7e666357e6625cbdf874c
       - pypi: https://files.pythonhosted.org/packages/45/7f/0e961cf3908bc4c1c3e027de2794f867c6c89fb4916fc7dba295a0e80a2d/boltons-25.0.0-py3-none-any.whl
@@ -1460,7 +1460,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zlib-ng-2.3.3-hed4e4f5_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstandard-0.25.0-py312h37e1c23_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.7-hbf9d68e_6.conda
-      - pypi: git+https://github.com/modflow-org/modflow-devtools#ef97c190554c1d8939980927d68e15081adcf397
+      - pypi: git+https://github.com/modflow-org/modflow-devtools#abec244c96a3595f7774b279dea5d10ab64663d7
       - pypi: git+https://github.com/modflow-org/modflowapi?branch=develop#f441475d298e8d2af0d683085b346ed780ff912b
       - pypi: git+https://github.com/modflowpy/flopy#866bb586380d934f18e7e666357e6625cbdf874c
       - pypi: https://files.pythonhosted.org/packages/19/95/6195171e385007300f0f5574592e467c568becce2d937a0b6804f218bc49/pydantic_core-2.46.4-cp312-cp312-macosx_11_0_arm64.whl
@@ -1850,7 +1850,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/zlib-1.3.2-hfd05255_2.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/zlib-ng-2.3.3-h0261ad2_1.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/zstd-1.5.7-h534d264_6.conda
-      - pypi: git+https://github.com/modflow-org/modflow-devtools#ef97c190554c1d8939980927d68e15081adcf397
+      - pypi: git+https://github.com/modflow-org/modflow-devtools#abec244c96a3595f7774b279dea5d10ab64663d7
       - pypi: git+https://github.com/modflow-org/modflowapi?branch=develop#f441475d298e8d2af0d683085b346ed780ff912b
       - pypi: git+https://github.com/modflowpy/flopy#866bb586380d934f18e7e666357e6625cbdf874c
       - pypi: https://files.pythonhosted.org/packages/40/8c/985c1d41ea1107c2534abd9870e4ed5c8e7669b5c308297835c001e7a1c4/pydantic_core-2.46.4-cp312-cp312-win_amd64.whl
@@ -21108,7 +21108,7 @@ packages:
   purls: []
   size: 388453
   timestamp: 1764777142545
-- pypi: git+https://github.com/modflow-org/modflow-devtools#ef97c190554c1d8939980927d68e15081adcf397
+- pypi: git+https://github.com/modflow-org/modflow-devtools#abec244c96a3595f7774b279dea5d10ab64663d7
   name: modflow-devtools
   version: 1.10.0.dev1
   requires_dist:
